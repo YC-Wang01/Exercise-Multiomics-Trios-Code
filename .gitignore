@@ -1,0 +1,57 @@
+# R session and IDE state
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+.Renviron
+
+# Python and Node state
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.venv/
+venv/
+
+# Raw, restricted, and analysis-ready data
+**/raw/
+**/Raw/
+**/00_Raw_Data/
+**/01_Clean_Data/
+**/restricted/
+**/Restricted/
+**/crosswalk/
+**/Crosswalk/
+
+# Data and generated scientific artifacts
+*.sav
+*.por
+*.idat
+*.rds
+*.RDS
+*.RData
+*.xlsx
+*.xls
+*.xlsm
+*.docx
+*.pdf
+*.png
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.zip
+*.tar
+*.gz
+
+# Generated outputs and machine-specific configuration
+results/
+figures/
+R_Library/
+R_Cache/
+local_config.*
+*.log
+
+# Approved release metadata
+!docs/FILE_MANIFEST.csv
+!docs/PRIVACY_PATH_AUDIT.csv

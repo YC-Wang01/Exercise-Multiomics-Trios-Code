@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this repository."
+type: software
+title: "Exercise Multi-omics in Family Trios"
+authors:
+  - family-names: "Wang"
+    given-names: "Xiuqiang"
+  - family-names: "Wang"
+    given-names: "Yucheng"
+  - family-names: "Laakkonen"
+    given-names: "Eija"
+  - family-names: "Xu"
+    given-names: "Leiting"
+  - family-names: "Wiklund"
+    given-names: "Petri"
+  - family-names: "Cheng"
+    given-names: "Runtan"
+  - family-names: "Joenväärä"
+    given-names: "Sakari"
+  - family-names: "Törmäkangas"
+    given-names: "Timo"
+  - family-names: "Xu"
+    given-names: "Lin"
+  - family-names: "Liu"
+    given-names: "Xiaohui"
+  - family-names: "Autio"
+    given-names: "Reija"
+  - family-names: "Renkonen"
+    given-names: "Risto"
+  - family-names: "Qian"
+    given-names: "Kun"
+  - family-names: "Väänänen"
+    given-names: "Kalervo"
+  - family-names: "Fan"
+    given-names: "Chunhai"
+  - family-names: "Xia"
+    given-names: "Weiliang"
+  - family-names: "Alen"
+    given-names: "Markku J."
+  - family-names: "Cheng"
+    given-names: "Sulin"
+abstract: >-
+  Curated R analysis and scientific plotting code supporting Figures 1-6 and
+  Figures S1-S6 of the manuscript "Multi-Tissue Multi-Omics Responses to Acute
+  Exercise in Daughter-Mother-Father Trios".
+license: MIT
+repository-code: "https://github.com/YC-Wang01/Exercise-Multiomics-Trios-Code"
+keywords:
+  - acute exercise
+  - multi-omics
+  - family trios
+  - serum
+  - adipose tissue
+  - skeletal muscle
