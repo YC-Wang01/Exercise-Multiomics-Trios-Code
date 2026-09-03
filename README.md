@@ -83,6 +83,4 @@ from the public repository alone.
 ## Citation and license
 
 Citation metadata are provided in `CITATION.cff`. The code is distributed under
-the MIT License; see `LICENSE`. Repository metadata and the public-release
-decision should be confirmed by the corresponding authors before the first
-remote push.
+the MIT License; see `LICENSE`.
