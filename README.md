@@ -2,7 +2,7 @@
 
 This code-only repository contains the curated statistical analysis and
 scientific plotting scripts supporting Figures 1-6 and Figures S1-S6 of the
-associated Cell Metabolism manuscript.
+associated manuscript.
 
 ## Release status
 
@@ -32,7 +32,7 @@ Run scripts from the repository root. Set `ATM_PROJECT_ROOT` to an authorized
 local analysis workspace before execution:
 
 ```r
-Sys.setenv(ATM_PROJECT_ROOT = "/path/to/CellMetabolism_Transfer")
+Sys.setenv(ATM_PROJECT_ROOT = "/path/to/analysis_workspace")
 source("code/Fig00_Config.R")
 ```
 
